@@ -9,4 +9,4 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this project, a predictive model is being developed that tries to answer the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-The data was acquired from <a href="https://www.kaggle.com/c/titanic">Kaggle</a>
+The data was acquired from <a href="https://www.kaggle.com/c/titanic">Kaggle</a>.
